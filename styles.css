@@ -1,0 +1,66 @@
+/* General */
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Host+Grotesk:ital,wght@0,300..800;1,300..800&display=swap');
+</style>
+body {
+    font-family: ;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+    margin-bottom: 15px;
+    padding: 0;
+}
+
+header {
+    background-color: #6200ea;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+.contenedor {
+    border: 2px solid #6200ea;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+
+.container{
+    border: 2px solid #6200ea;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.termino {
+    background: #fff;
+    border: 2px solid #6200ea;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.termino h3 {
+    margin: 0 0 10px 0;
+    color: #6200ea;
+}
+
+.termino p {
+    margin: 0;
+}
+
+  
